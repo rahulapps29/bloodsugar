@@ -188,6 +188,7 @@ label {
 
 input,
 textarea {
+  color: yellow;
   width: 100%;
   padding: 0.375rem 0.75rem;
   border-radius: var(--borderRadius);
@@ -204,7 +205,7 @@ textarea {
 }
 
 ::placeholder {
-  color: var(--grey-600);
+  color: var(--grey-200);
 }
 .form-alert {
   color: var(--red-dark);
