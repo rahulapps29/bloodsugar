@@ -37,9 +37,6 @@ const showTasks = async () => {
           { hour: "numeric", minute: "numeric", hour12: true }
         )}: ${name}:${meal}: ${comment} :sugar ${sugar} : insulin ${insulin}</h5>
 <div class="task-links">
-
-
-
 <!-- edit link -->
 <a href="task.html?id=${taskID}"  class="edit-link">
 <i class="fas fa-edit"></i>
