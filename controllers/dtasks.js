@@ -12,9 +12,12 @@ const getAlldynamicIn = async (req, res) => {
 
   const {
     completed,
-    company,
-    desc,
-    year_month,
+    name,
+    meal,
+    comment,
+    createdAt,
+    sugar,
+    insulin,
     sort,
     fields,
     numericFilters,
@@ -26,20 +29,20 @@ const getAlldynamicIn = async (req, res) => {
     queryObject.completed = completed === "true" ? true : false;
   }
 
-  // if (company) {
-  //   queryObject.company = company;
+  // if (name) {
+  //   queryObject.name = name;
   // }
 
-  if (year_month) {
-    queryObject.year_month = { $regex: year_month, $options: "i" };
+  if (name) {
+    queryObject.year_month = { $regex: name, $options: "i" };
   }
 
-  if (desc) {
-    queryObject.desc = { $regex: desc, $options: "i" };
+  if (meal) {
+    queryObject.comment = { $regex: meal, $options: "i" };
   }
 
-  if (transtype) {
-    queryObject.transtype = { $regex: transtype, $options: "i" };
+  if (comment) {
+    queryObject.comment = { $regex: comment, $options: "i" };
   }
 
   if (numericFilters) {
@@ -58,7 +61,7 @@ const getAlldynamicIn = async (req, res) => {
     );
     console.log(filters);
 
-    const options = ["amt"];
+    const options = ["sugar"];
     filters = filters.split(",").forEach((item) => {
       const [field, operator, value] = item.split("-");
       if (options.includes(field)) {
@@ -76,7 +79,7 @@ const getAlldynamicIn = async (req, res) => {
     const sortList = sort.split(",").join(" ");
     result = result.sort(sortList);
   } else {
-    result = result.sort("-tdate");
+    result = result.sort("-createdAt");
   }
   if (fields) {
     const fieldList = fields.split(",").join(" ");
