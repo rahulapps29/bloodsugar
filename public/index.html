@@ -15,38 +15,47 @@
     <link rel="stylesheet" href="./normalize.css" />
     <!-- main css -->
     <link rel="stylesheet" href="./main.css" />
-    <title>Entry Sheet</title>
+    <title>Medicine Sheet</title>
   </head>
   <body>
     <form class="task-form">
-      <h4>Entry Sheet</h4>
+      <h4>Medicine Sheet</h4>
 
       <div class="form-control">
-        <input
-          type="text"
-          name="transtype"
-          class="task-person"
-          placeholder="Trans type eg: gave to person"
-        />
-        <!-- <button type="submit" class="btn submit-btn">submit</button> -->
+        <input type="text" name="name" class="task-name" placeholder="Name" />
       </div>
       <div class="form-control">
         <input
           type="text"
-          name="desc"
-          class="task-input"
-          placeholder="trans Desc eg: cardname"
+          name="meal"
+          class="task-meal"
+          placeholder="Meal: Dal/Fish"
         />
-        <!-- <button type="submit" class="btn submit-btn">submit</button> -->
+      </div>
+      <div class="form-control">
+        <input
+          type="text"
+          name="comment"
+          class="task-comment"
+          placeholder="before breakfast/lunch/dinner"
+        />
       </div>
 
       <div class="form-control">
-        <input type="number" name="amt" class="task-amt" placeholder="Amt" />
-        <!-- <button type="submit" class="btn submit-btn">submit</button> -->
+        <input
+          type="number"
+          name="sugar"
+          class="task-sugar"
+          placeholder="Sugar mg/dL"
+        />
       </div>
       <div class="form-control">
-        <input type="date" name="tdate" class="task-date" placeholder="date" />
-        <!-- <button type="submit" class="btn submit-btn">submit</button> -->
+        <input
+          type="number"
+          name="insulin"
+          class="task-insulin"
+          placeholder="Insulin units (.01 mL)"
+        />
       </div>
 
       <div class="form-control">

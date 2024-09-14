@@ -1,8 +1,9 @@
-const taskIDDOM = document.querySelector(".task-edit-id");
-const taskDescDOM = document.querySelector(".task-edit-desc");
-const taskPersonDOM = document.querySelector(".task-edit-person");
-const taskAmtDOM = document.querySelector(".task-edit-amt");
-const taskDateDOM = document.querySelector(".task-edit-date");
+const taskIdDOM = document.querySelector(".task-edit-id");
+const taskNameDOM = document.querySelector(".task-edit-name");
+const taskMealDOM = document.querySelector(".task-edit-meal");
+const taskCommentDOM = document.querySelector(".task-edit-comment");
+const taskSugarDOM = document.querySelector(".task-edit-sugar");
+const taskInsulinDOM = document.querySelector(".task-edit-insulin");
 const taskCompletedDOM = document.querySelector(".task-edit-completed");
 const editFormDOM = document.querySelector(".single-task-form");
 const editBtnDOM = document.querySelector(".task-edit-btn");
@@ -16,13 +17,23 @@ const showTask = async () => {
     const {
       data: { task },
     } = await axios.get(`/api/tasks/${id}`);
-    const { _id: taskID, completed, desc, amt, tdate, transtype } = task;
+    const {
+      _id: taskID,
+      completed,
+      name,
+      meal,
+      comment,
+      sugar,
+      insulin,
+    } = task;
 
-    taskIDDOM.textContent = taskID;
-    taskPersonDOM.value = transtype;
-    taskDescDOM.value = desc;
-    taskAmtDOM.value = amt;
-    taskDateDOM.valueAsDate = new Date(tdate);
+    taskIdDOM.textContent = taskID;
+    taskNameDOM.value = name;
+    taskMealDOM.value = meal;
+    taskCommentDOM.value = comment;
+    taskSugarDOM.value = sugar;
+    taskInsulinDOM.value = insulin;
+    // taskDateDOM.valueAsDate = new Date(tdate);
     if (completed) {
       taskCompletedDOM.checked = true;
     }
@@ -37,35 +48,38 @@ editFormDOM.addEventListener("submit", async (e) => {
   editBtnDOM.textContent = "Loading...";
   e.preventDefault();
   try {
-    const taskPerson = taskPersonDOM.value;
-    const taskDesc = taskDescDOM.value;
+    const taskName = taskNameDOM.value;
+    const taskMeal = taskMealDOM.value;
+    const taskComment = taskCommentDOM.value;
+    const taskSugar = taskSugarDOM.value;
+    const taskInsulin = taskInsulinDOM.value;
     const taskCompleted = taskCompletedDOM.checked;
-    const taskAmt = taskAmtDOM.value;
-    const taskDate = taskDateDOM.value;
-    const date_string =
-      taskDate.substring(8, 10) +
-      "_" +
-      taskDate.substring(5, 7) +
-      "_" +
-      taskDate.substring(0, 4);
+    // const taskDate = taskDateDOM.value;
+    // const date_string =
+    //   taskDate.substring(8, 10) +
+    //   "_" +
+    //   taskDate.substring(5, 7) +
+    //   "_" +
+    //   taskDate.substring(0, 4);
     const {
       data: { task },
     } = await axios.patch(`/api/tasks/${id}`, {
-      desc: taskDesc,
+      name: taskName,
+      meal: taskMeal,
+      comment: taskComment,
+      sugar: taskSugar,
+      insulin: taskInsulin,
       completed: taskCompleted,
-      amt: taskAmt,
-      tdate: taskDate,
-      transtype: taskPerson,
-      date_string: date_string,
     });
 
-    const { _id: taskID, completed, desc, amt, tdate, transtype } = task;
+    const { _id: taskID, name, meal, sugar, insulin, completed } = task;
 
-    taskIDDOM.textContent = taskID;
-    taskDescDOM.value = transtype;
-    taskPersonDOM.value = desc;
-    taskAmtDOM.value = amt;
-    taskDateDOM.value = tdate;
+    taskIdDOM.textContent = taskID;
+    taskNameDOM.value = name;
+    taskMealDOM.value = meal;
+    taskCommentDOM.value = comment;
+    taskSugarDOM.value = sugar;
+    taskInsulinDOM.value = insulin;
     tempDesc = desc;
     if (completed) {
       taskCompletedDOM.checked = true;
@@ -75,7 +89,7 @@ editFormDOM.addEventListener("submit", async (e) => {
     formAlertDOM.classList.add("text-success");
   } catch (error) {
     console.error(error);
-    taskDescDOM.value = tempDesc;
+    taskNameDOM.value = tempDesc;
     formAlertDOM.style.display = "block";
     formAlertDOM.innerHTML = `error, please try again`;
   }

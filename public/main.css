@@ -443,3 +443,67 @@ form > :last-child {
   text-align: center;
   margin-top: 1rem;
 }
+
+/* For small screens (up to 480px) */
+@media (max-width: 480px) {
+  html {
+    font-size: 100%;
+  }
+
+  h1 {
+    font-size: 2.441rem;
+  }
+
+  h2 {
+    font-size: 1.953rem;
+  }
+
+  h3 {
+    font-size: 1.563rem;
+  }
+
+  h4 {
+    font-size: 1.25rem;
+  }
+
+  h5 {
+    font-size: 1rem;
+  }
+
+  p {
+    max-width: 100%;
+  }
+
+  .task-form,
+  .single-task-form {
+    width: 95vw;
+  }
+
+  .tasks-container {
+    width: 95vw;
+  }
+
+  .single-task {
+    padding: 1rem 1.5rem;
+  }
+}
+
+/* For medium screens (481px to 768px) */
+@media (min-width: 481px) and (max-width: 768px) {
+  html {
+    font-size: 106.25%;
+  }
+
+  .task-form,
+  .single-task-form {
+    width: 90vw;
+  }
+
+  .tasks-container {
+    width: 90vw;
+  }
+
+  .single-task {
+    padding: 1rem 2rem;
+  }
+}
