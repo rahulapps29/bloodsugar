@@ -35,7 +35,7 @@ const showTasks = async () => {
      ${createdAt.substring(0, 10)}  ${new Date(createdAt).toLocaleString(
           "en-US",
           { hour: "numeric", minute: "numeric", hour12: true }
-        )}: ${name}:${meal}: ${comment} :sugar ${sugar} : insulin ${insulin}</h5>
+        )}: ${name}:${meal}: ${comment} : sugar ${sugar} mg/dl : insulin ${insulin} units (.01 ml)</h5>
 <div class="task-links">
 <!-- edit link -->
 <a href="task.html?id=${taskID}"  class="edit-link">
@@ -97,15 +97,6 @@ formDOM.addEventListener("submit", async (e) => {
   const comment = taskInputComment.value;
   const sugar = taskInputSugar.value;
   const insulin = taskInputInsulin.value;
-  // const year = Number(tdate.substring(0, 4));
-  // const month = Number(tdate.substring(5, 7));
-  // const year_month = tdate.substring(5, 7) + "_" + tdate.substring(0, 4);
-  // const date_string =
-  //   tdate.substring(8, 10) +
-  //   "_" +
-  //   tdate.substring(5, 7) +
-  //   "_" +
-  //   tdate.substring(0, 4);
   try {
     const userConfirmed = confirm("Are you sure you want to Add this entry?");
     if (!userConfirmed) {
