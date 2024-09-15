@@ -72,7 +72,15 @@ editFormDOM.addEventListener("submit", async (e) => {
       completed: taskCompleted,
     });
 
-    const { _id: taskID, name, meal, sugar, insulin, completed } = task;
+    const {
+      _id: taskID,
+      name,
+      meal,
+      comment,
+      sugar,
+      insulin,
+      completed,
+    } = task;
 
     taskIdDOM.textContent = taskID;
     taskNameDOM.value = name;
@@ -80,7 +88,7 @@ editFormDOM.addEventListener("submit", async (e) => {
     taskCommentDOM.value = comment;
     taskSugarDOM.value = sugar;
     taskInsulinDOM.value = insulin;
-    tempDesc = desc;
+    tempDesc = name;
     if (completed) {
       taskCompletedDOM.checked = true;
     }
