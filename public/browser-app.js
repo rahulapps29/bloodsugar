@@ -94,7 +94,14 @@ formDOM.addEventListener("submit", async (e) => {
   e.preventDefault();
   const name = taskInputName.value;
   const meal = taskInputMeal.value;
-  const comment = taskInputComment.value;
+  let comment = taskInputComment.value.toLowerCase();
+
+  if (comment.search("break fast") >= 0) {
+    comment = "breakfast";
+  }
+  if (!comment.includes("before")) {
+    comment = "before " + comment;
+  }
   const sugar = taskInputSugar.value;
   const insulin = taskInputInsulin.value;
   try {
