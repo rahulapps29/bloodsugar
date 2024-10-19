@@ -1,3 +1,4 @@
+const formAlertDOM = document.querySelector(".form-alert");
 const tasksDOM = document.querySelector(".tasks");
 const loadingDOM = document.querySelector(".loading-text");
 const formDOM = document.querySelector(".task-form");
@@ -141,5 +142,5 @@ formDOM.addEventListener("submit", async (e) => {
   setTimeout(() => {
     formAlertDOM.style.display = "none";
     formAlertDOM.classList.remove("text-success");
-  }, 3000);
+  }, 1000);
 });
