@@ -133,7 +133,7 @@ formDOM.addEventListener("submit", async (e) => {
     taskInputSugar.value = "";
     taskInputInsulin.value = "";
     formAlertDOM.style.display = "block";
-    formAlertDOM.textContent = `success, task added`;
+    formAlertDOM.textContent = `success, Entry added`;
     formAlertDOM.classList.add("text-success");
   } catch (error) {
     formAlertDOM.style.display = "block";
