@@ -8,8 +8,6 @@ const { createCustomError } = require("../errors/custom-error");
 // };
 
 const getAlldynamicIn = async (req, res) => {
-  console.log(req.query);
-
   const {
     completed,
     name,
@@ -59,7 +57,6 @@ const getAlldynamicIn = async (req, res) => {
       regEx,
       (match) => `-${opeartorMap[match]}-`
     );
-    console.log(filters);
 
     const options = ["sugar"];
     filters = filters.split(",").forEach((item) => {
@@ -68,10 +65,7 @@ const getAlldynamicIn = async (req, res) => {
         queryObject[field] = { [operator]: Number(value) };
       }
     });
-    console.log(numericFilters);
   }
-
-  console.log(queryObject);
 
   let result = Task.find(queryObject);
 
@@ -91,8 +85,6 @@ const getAlldynamicIn = async (req, res) => {
   const skip = (page - 1) * limit;
   result = result.skip(skip).limit(limit);
 
-  console.log(page);
-  console.log(limit);
   const tasks = await result;
   res.status(200).json({ tasks });
 };

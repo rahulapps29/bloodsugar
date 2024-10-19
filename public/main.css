@@ -248,8 +248,8 @@ textarea {
   }
   .submit-btn {
     margin-top: 0;
-    width: 175px;
-    border-radius: 0;
+    /* width: 175px; */
+    border-radius: 00.5rem;
     border-top-right-radius: var(--borderRadius);
     border-bottom-right-radius: var(--borderRadius);
   }
@@ -280,7 +280,7 @@ form > :last-child {
   color: var(--red-dark);
 }
 .text-success {
-  color: var(--green-dark);
+  color: #bab86c;
 }
 /* loading */
 @keyframes spinner {
