@@ -1,19 +1,13 @@
 const Task = require("../models/Task");
 const asyncWrapper = require("../middleware/async");
 const { createCustomError } = require("../errors/custom-error");
-
-// const getAlldynamicIn = async (req, res) => {
-//   const tasks = await Task.find({});
-//   return res.status(200).json({ tasks });
-// };
-
 const getAlldynamicIn = async (req, res) => {
   const {
     completed,
     name,
     meal,
     comment,
-    createdAt,
+    tDate,
     sugar,
     insulin,
     sort,
@@ -73,7 +67,7 @@ const getAlldynamicIn = async (req, res) => {
     const sortList = sort.split(",").join(" ");
     result = result.sort(sortList);
   } else {
-    result = result.sort("-createdAt");
+    result = result.sort("-tDate");
   }
   if (fields) {
     const fieldList = fields.split(",").join(" ");

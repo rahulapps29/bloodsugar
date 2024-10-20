@@ -188,7 +188,7 @@ label {
 
 input,
 textarea {
-  color: black;
+  color: white;
   width: 100%;
   padding: 0.375rem 0.75rem;
   border-radius: var(--borderRadius);
@@ -341,7 +341,7 @@ form > :last-child {
   width: 90vw;
   max-width: var(--fixed-width);
   margin: 0 auto;
-  margin-top: 2rem;
+  margin-top: 0rem;
   padding-bottom: 4rem;
 }
 .tasks {
@@ -349,7 +349,7 @@ form > :last-child {
   gap: 1rem;
 }
 .single-task {
-  padding: 1rem 2.5rem;
+  padding: 1rem 1rem;
   background: black;
   border-radius: var(--borderRadius);
   box-shadow: var(--shadow-2);
@@ -459,4 +459,35 @@ input:focus {
 
 input:focus::placeholder {
   color: black;
+}
+
+.input-container {
+  display: flex; /* Use flexbox to arrange children in a row */
+  align-items: center; /* Center items vertically */
+  gap: 10px; /* Space between input fields */
+}
+
+.input-container input {
+  padding: 8px; /* Padding for better spacing */
+  /* border: 1px solid #ccc;  */
+  /* border-radius: 4px;  */
+  width: 50%; /* Set each input to 50% width */
+  box-sizing: border-box; /* Include padding and border in width calculation */
+}
+
+#date {
+  color: var(--primary-0);
+}
+
+#date:focus {
+  background-color: white;
+  color: black;
+}
+
+#date:focus::placeholder {
+  color: black;
+}
+
+body > form > div:nth-child(8) > button {
+  margin-top: 1rem;
 }

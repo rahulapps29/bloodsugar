@@ -1,4203 +1,677 @@
 [
   {
-    "amt": 11999,
-    "desc": "icici7003",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 20999,
-    "desc": "icici7003",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 21898,
-    "desc": "icici7003",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 14999,
-    "desc": "icici7003",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17499,
-    "desc": "icici7003",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10740,
-    "desc": "icici7003",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 18071,
-    "desc": "icici7003",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 23499,
-    "desc": "icici7003",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10740,
-    "desc": "sbi7405",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10740,
-    "desc": "sbi9659",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 21737,
-    "desc": "icici7003",
-    "tdate": "8/5/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "05_08_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 16000,
-    "desc": "cash",
-    "tdate": "8/6/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "06_08_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 14528,
-    "desc": "icici7003",
-    "tdate": "8/6/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "06_08_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 9028,
-    "desc": "hdfc1701",
-    "tdate": "8/19/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "19_08_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10728,
-    "desc": "sbi7405",
-    "tdate": "8/23/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "23_08_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10728,
-    "desc": "sbi9659",
-    "tdate": "8/23/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "23_08_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 13028,
-    "desc": "icici7003",
-    "tdate": "8/28/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "28_08_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 44000,
-    "desc": "icici7003",
-    "tdate": "9/6/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "06_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 5479,
-    "desc": "icici7003",
-    "tdate": "9/8/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "08_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12999,
-    "desc": "icici7003",
-    "tdate": "9/9/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "09_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10291,
-    "desc": "sbi7405",
-    "tdate": "9/15/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "15_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10291,
-    "desc": "sbi9659",
-    "tdate": "9/15/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "15_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 33999,
-    "desc": "icici7003",
-    "tdate": "9/16/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "16_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 13499,
-    "desc": "icici7003",
-    "tdate": "9/18/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "18_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 28999,
-    "desc": "icici7003",
-    "tdate": "9/20/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "20_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 30019,
-    "desc": "icici7003",
-    "tdate": "9/22/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "22_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 45434,
-    "desc": "sbi7405",
-    "tdate": "9/22/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "22_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 45434,
-    "desc": "sbi9659",
-    "tdate": "9/22/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "22_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 8499,
-    "desc": "sbi7405",
-    "tdate": "9/23/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "23_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 8499,
-    "desc": "sbi9659",
-    "tdate": "9/23/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "23_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 5309,
-    "desc": "sbi7405",
-    "tdate": "9/25/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "25_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 5309,
-    "desc": "sbi9659",
-    "tdate": "9/25/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "25_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 19499,
-    "desc": "icici7003",
-    "tdate": "9/28/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "28_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 44999,
-    "desc": "icici7003",
-    "tdate": "9/30/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "30_09_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 21999,
-    "desc": "icici7003",
-    "tdate": "10/2/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "02_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 7739,
-    "desc": "icici7003",
-    "tdate": "10/2/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "02_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 53498,
-    "desc": "icici7003",
-    "tdate": "10/2/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "02_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 57269,
-    "desc": "hdfc1701",
-    "tdate": "10/4/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "04_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 16499,
-    "desc": "citi7889",
-    "tdate": "10/8/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "08_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 25836,
-    "desc": "icici7003",
-    "tdate": "10/8/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "08_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 16999,
-    "desc": "icici7003",
-    "tdate": "10/8/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "08_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 33769,
-    "desc": "sbi7405",
-    "tdate": "10/10/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "10_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 33769,
-    "desc": "sbi9659",
-    "tdate": "10/10/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "10_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 8549,
-    "desc": "citi7889",
-    "tdate": "10/12/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "12_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 8549,
-    "desc": "icici7003",
-    "tdate": "10/12/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "12_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 33769,
-    "desc": "sbi7405",
-    "tdate": "10/12/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "12_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 33769,
-    "desc": "sbi9659",
-    "tdate": "10/12/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "12_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 43490,
-    "desc": "sbi7405",
-    "tdate": "10/15/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "15_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 43490,
-    "desc": "sbi9659",
-    "tdate": "10/15/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "15_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 8549,
-    "desc": "citi7889",
-    "tdate": "10/19/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "19_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 8549,
-    "desc": "icici7003",
-    "tdate": "10/19/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "19_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 33019,
-    "desc": "sbi7405",
-    "tdate": "10/19/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "19_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 33019,
-    "desc": "sbi9659",
-    "tdate": "10/19/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "19_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 9490,
-    "desc": "icici7003",
-    "tdate": "10/21/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "21_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "icici7003",
-    "tdate": "10/22/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "22_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 23499,
-    "desc": "icici7003",
-    "tdate": "10/23/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "23_10_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 13019,
-    "desc": "sbi7405",
-    "tdate": "12/6/2022",
-    "month": 12,
-    "year": 2022,
-    "year_month": "12_2022",
-    "date_string": "06_12_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 13019,
-    "desc": "sbi9659",
-    "tdate": "12/6/2022",
-    "month": 12,
-    "year": 2022,
-    "year_month": "12_2022",
-    "date_string": "06_12_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10149,
-    "desc": "hdfc1701",
-    "tdate": "12/9/2022",
-    "month": 12,
-    "year": 2022,
-    "year_month": "12_2022",
-    "date_string": "09_12_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 13499,
-    "desc": "icici7003",
-    "tdate": "12/13/2022",
-    "month": 12,
-    "year": 2022,
-    "year_month": "12_2022",
-    "date_string": "13_12_2022",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 16499,
-    "desc": "icici7003",
-    "tdate": "1/13/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "13_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 6199,
-    "desc": "icici7003",
-    "tdate": "1/13/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "13_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10499,
-    "desc": "hdfc1701",
-    "tdate": "1/14/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "14_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 8749,
-    "desc": "sbi7405",
-    "tdate": "1/14/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "14_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 8749,
-    "desc": "sbi9659",
-    "tdate": "1/14/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "14_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 65068,
-    "desc": "icici7003",
-    "tdate": "1/15/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "15_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": -65068,
-    "desc": "revicici7003",
-    "tdate": "1/15/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "15_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 46999,
-    "desc": "rbl0092",
-    "tdate": "1/21/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "21_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 6798,
-    "desc": "rbl0092",
-    "tdate": "1/21/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "21_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12999,
-    "desc": "rbl0092",
-    "tdate": "1/21/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "21_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 47999,
-    "desc": "citi7889",
-    "tdate": "1/24/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "24_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 23852,
-    "desc": "indus6864",
-    "tdate": "1/26/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "26_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 14261,
-    "desc": "indus6864",
-    "tdate": "1/26/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "26_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 30499,
-    "desc": "icici7003",
-    "tdate": "1/27/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "27_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10475,
-    "desc": "citi7889",
-    "tdate": "1/28/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "28_01_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 24860,
-    "desc": "hdfc1701",
-    "tdate": "2/4/2023",
-    "month": 2,
-    "year": 2023,
-    "year_month": "02_2023",
-    "date_string": "04_02_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 16999,
-    "desc": "sbi7405",
-    "tdate": "3/3/2023",
-    "month": 3,
-    "year": 2023,
-    "year_month": "03_2023",
-    "date_string": "03_03_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 26030,
-    "desc": "sbi9659",
-    "tdate": "3/3/2023",
-    "month": 3,
-    "year": 2023,
-    "year_month": "03_2023",
-    "date_string": "03_03_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 22653,
-    "desc": "sbi7405",
-    "tdate": "3/6/2023",
-    "month": 3,
-    "year": 2023,
-    "year_month": "03_2023",
-    "date_string": "06_03_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10000,
-    "desc": "sbi7405",
-    "tdate": "3/6/2023",
-    "month": 3,
-    "year": 2023,
-    "year_month": "03_2023",
-    "date_string": "06_03_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 13649,
-    "desc": "hdfc1701",
-    "tdate": "3/11/2023",
-    "month": 3,
-    "year": 2023,
-    "year_month": "03_2023",
-    "date_string": "11_03_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 500,
-    "desc": "icici7003",
-    "tdate": "3/21/2023",
-    "month": 3,
-    "year": 2023,
-    "year_month": "03_2023",
-    "date_string": "21_03_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12499,
-    "desc": "icici7003",
-    "tdate": "3/28/2023",
-    "month": 3,
-    "year": 2023,
-    "year_month": "03_2023",
-    "date_string": "28_03_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 8499,
-    "desc": "icici7003",
-    "tdate": "4/6/2023",
-    "month": 4,
-    "year": 2023,
-    "year_month": "04_2023",
-    "date_string": "06_04_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 27999,
-    "desc": "icici7003",
-    "tdate": "4/6/2023",
-    "month": 4,
-    "year": 2023,
-    "year_month": "04_2023",
-    "date_string": "06_04_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 28999,
-    "desc": "hdfc1701",
-    "tdate": "4/7/2023",
-    "month": 4,
-    "year": 2023,
-    "year_month": "04_2023",
-    "date_string": "07_04_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 51298,
-    "desc": "icici7003",
-    "tdate": "4/9/2023",
-    "month": 4,
-    "year": 2023,
-    "year_month": "04_2023",
-    "date_string": "09_04_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 15000,
-    "desc": "icici7003",
-    "tdate": "5/7/2023",
-    "month": 5,
-    "year": 2023,
-    "year_month": "05_2023",
-    "date_string": "07_05_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 29090,
-    "desc": "citi7889",
-    "tdate": "5/14/2023",
-    "month": 5,
-    "year": 2023,
-    "year_month": "05_2023",
-    "date_string": "14_05_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 29999,
-    "desc": "hdfc1701",
-    "tdate": "5/15/2023",
-    "month": 5,
-    "year": 2023,
-    "year_month": "05_2023",
-    "date_string": "15_05_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 30999,
-    "desc": "hdfc1701",
-    "tdate": "6/5/2023",
-    "month": 6,
-    "year": 2023,
-    "year_month": "06_2023",
-    "date_string": "05_06_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 8498,
-    "desc": "sbi9659",
-    "tdate": "7/11/2023",
-    "month": 7,
-    "year": 2023,
-    "year_month": "07_2023",
-    "date_string": "11_07_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 30999,
-    "desc": "icici7003",
-    "tdate": "7/18/2023",
-    "month": 7,
-    "year": 2023,
-    "year_month": "07_2023",
-    "date_string": "18_07_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 21498,
-    "desc": "hdfc1701",
-    "tdate": "7/23/2023",
-    "month": 7,
-    "year": 2023,
-    "year_month": "07_2023",
-    "date_string": "23_07_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 39999,
-    "desc": "icici7003",
-    "tdate": "8/5/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "05_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 28750,
-    "desc": "hdfc1701",
-    "tdate": "8/8/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "08_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 75000,
-    "desc": "sbi7405",
-    "tdate": "8/12/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "12_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 70899,
-    "desc": "sbi1869",
-    "tdate": "8/15/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "15_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "sbi7405",
-    "tdate": "8/15/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "15_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "sbi9659",
-    "tdate": "8/15/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "15_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 14499,
-    "desc": "icici7003",
-    "tdate": "8/22/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "22_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 40850,
-    "desc": "icici7003",
-    "tdate": "8/24/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "24_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12499,
-    "desc": "hdfc1701",
-    "tdate": "8/31/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "31_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12499,
-    "desc": "sbi1869",
-    "tdate": "8/31/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "31_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12499,
-    "desc": "sbi7405",
-    "tdate": "8/31/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "31_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12499,
-    "desc": "sbi9659",
-    "tdate": "8/31/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "31_08_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 70000,
-    "desc": "citi7889",
-    "tdate": "9/27/2023",
-    "month": 9,
-    "year": 2023,
-    "year_month": "09_2023",
-    "date_string": "27_09_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 21298,
-    "desc": "icici7003",
-    "tdate": "9/27/2023",
-    "month": 9,
-    "year": 2023,
-    "year_month": "09_2023",
-    "date_string": "27_09_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 46000,
-    "desc": "idfc1410",
-    "tdate": "9/27/2023",
-    "month": 9,
-    "year": 2023,
-    "year_month": "09_2023",
-    "date_string": "27_09_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 96000,
-    "desc": "indus6864",
-    "tdate": "9/27/2023",
-    "month": 9,
-    "year": 2023,
-    "year_month": "09_2023",
-    "date_string": "27_09_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 135000,
-    "desc": "rbl0092",
-    "tdate": "9/27/2023",
-    "month": 9,
-    "year": 2023,
-    "year_month": "09_2023",
-    "date_string": "27_09_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 16044,
-    "desc": "yes6025",
-    "tdate": "9/27/2023",
-    "month": 9,
-    "year": 2023,
-    "year_month": "09_2023",
-    "date_string": "27_09_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "sbi1869",
-    "tdate": "10/2/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "02_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "sbi7405",
-    "tdate": "10/2/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "02_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "sbi9659",
-    "tdate": "10/2/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "02_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 45749,
-    "desc": "sbi9659",
-    "tdate": "10/6/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "06_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 19999,
-    "desc": "hdfc1502",
-    "tdate": "10/7/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "07_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 53147,
-    "desc": "icici7003",
-    "tdate": "10/7/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "07_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 45749,
-    "desc": "sbi1869",
-    "tdate": "10/7/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "07_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17499,
-    "desc": "sbi7405",
-    "tdate": "10/7/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "07_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 45749,
-    "desc": "sbi7405",
-    "tdate": "10/7/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "07_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17499,
-    "desc": "sbi9659",
-    "tdate": "10/7/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "07_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10349,
-    "desc": "icici7003",
-    "tdate": "10/8/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "08_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 11749,
-    "desc": "sbi1869",
-    "tdate": "10/8/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "08_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 350000,
-    "desc": "icicacc",
-    "tdate": "10/10/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "10_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 100000,
-    "desc": "icicacc",
-    "tdate": "10/10/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "10_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 55897,
-    "desc": "axis8121",
-    "tdate": "10/13/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "13_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17999,
-    "desc": "hdfc1701",
-    "tdate": "10/13/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "13_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 15499,
-    "desc": "hdfc1502",
-    "tdate": "10/18/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "18_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 55147,
-    "desc": "icici7003",
-    "tdate": "10/21/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "21_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 54000,
-    "desc": "icici1001",
-    "tdate": "10/30/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "30_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 75000,
-    "desc": "indus6864",
-    "tdate": "10/30/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "30_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 67902,
-    "desc": "one6868",
-    "tdate": "10/30/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "30_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 25998,
-    "desc": "one6868",
-    "tdate": "10/31/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "31_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 18998,
-    "desc": "one6868",
-    "tdate": "10/31/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "31_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 89999,
-    "desc": "one6868",
-    "tdate": "10/31/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "31_10_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 51647,
-    "desc": "sbi1869",
-    "tdate": "11/1/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "01_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 51647,
-    "desc": "sbi7405",
-    "tdate": "11/1/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "01_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 51647,
-    "desc": "sbi9659",
-    "tdate": "11/1/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "01_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 7829,
-    "desc": "geyser",
-    "tdate": "11/3/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "03_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 7829,
-    "desc": "geyser",
-    "tdate": "11/3/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "03_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 47618,
-    "desc": "icici7003",
-    "tdate": "11/3/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "03_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 99617,
-    "desc": "au6954",
-    "tdate": "11/4/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "04_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 11091,
-    "desc": "yes6025",
-    "tdate": "11/7/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "07_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "axis8121",
-    "tdate": "11/10/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "10_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 5130,
-    "desc": "icici1001",
-    "tdate": "11/12/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "12_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17999,
-    "desc": "hdfc1502",
-    "tdate": "11/13/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "13_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 19999,
-    "desc": "hdfc1701",
-    "tdate": "11/15/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "15_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 7999,
-    "desc": "axis5077",
-    "tdate": "11/24/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "24_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 14999,
-    "desc": "axis5077",
-    "tdate": "11/24/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "24_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 99882,
-    "desc": "indus6864",
-    "tdate": "11/30/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "30_11_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 9999,
-    "desc": "icici7003",
-    "tdate": "12/16/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "16_12_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12499,
-    "desc": "icici7003",
-    "tdate": "12/22/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "22_12_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 22999,
-    "desc": "hdfc1701",
-    "tdate": "12/27/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "27_12_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 11998,
-    "desc": "icici7003",
-    "tdate": "12/27/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "27_12_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10999,
-    "desc": "icici7003",
-    "tdate": "12/30/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "30_12_2023",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 64147,
-    "desc": "icici7003",
-    "tdate": "1/13/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "13_01_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 37498,
-    "desc": "icici7003",
-    "tdate": "1/14/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "14_01_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10998,
-    "desc": "hdfc1701",
-    "tdate": "1/17/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "17_01_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 9999,
-    "desc": "hdfc1502",
-    "tdate": "1/18/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "18_01_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "sbi1869",
-    "tdate": "1/26/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "26_01_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "sbi9659",
-    "tdate": "1/26/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "26_01_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 145658,
-    "desc": "icici7003",
-    "tdate": "1/28/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "28_01_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 14999,
-    "desc": "hdfc1502",
-    "tdate": "2/13/2024",
-    "month": 2,
-    "year": 2024,
-    "year_month": "02_2024",
-    "date_string": "13_02_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 45499,
-    "desc": "icici7003",
-    "tdate": "2/18/2024",
-    "month": 2,
-    "year": 2024,
-    "year_month": "02_2024",
-    "date_string": "18_02_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12999,
-    "desc": "icici4003",
-    "tdate": "2/23/2024",
-    "month": 2,
-    "year": 2024,
-    "year_month": "02_2024",
-    "date_string": "23_02_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 41998,
-    "desc": "icici4003",
-    "tdate": "2/23/2024",
-    "month": 2,
-    "year": 2024,
-    "year_month": "02_2024",
-    "date_string": "23_02_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 23999,
-    "desc": "icici4003",
-    "tdate": "3/3/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "03_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 21499,
-    "desc": "icici4003",
-    "tdate": "3/6/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "06_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 21499,
-    "desc": "icici7003",
-    "tdate": "3/6/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "06_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 29999,
-    "desc": "icici4003",
-    "tdate": "3/11/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "11_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 23999,
-    "desc": "icici7003",
-    "tdate": "3/12/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "12_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "icici4003",
-    "tdate": "3/17/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "17_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 16999,
-    "desc": "icici7003",
-    "tdate": "3/17/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "17_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10999,
-    "desc": "icici4003",
-    "tdate": "3/19/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "19_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "icici7003",
-    "tdate": "3/19/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "19_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 186000,
-    "desc": "cash/shivam",
-    "tdate": "3/20/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "20_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10499,
-    "desc": "hdfc0308",
-    "tdate": "3/22/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "22_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 185000,
-    "desc": "cash/pooja",
-    "tdate": "3/25/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "25_03_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 5499,
-    "desc": "indus6864",
-    "tdate": "4/3/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "03_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10999,
-    "desc": "indus6864",
-    "tdate": "4/3/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "03_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12898,
-    "desc": "icici7003",
-    "tdate": "4/7/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "07_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 35499,
-    "desc": "icici4003",
-    "tdate": "4/8/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "08_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17665,
-    "desc": "icici4003",
-    "tdate": "4/13/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "13_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17665,
-    "desc": "icici4003",
-    "tdate": "4/13/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "13_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17665,
-    "desc": "icici7003",
-    "tdate": "4/13/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "13_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17665,
-    "desc": "icici7003",
-    "tdate": "4/13/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "13_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 34018,
-    "desc": "au6954",
-    "tdate": "4/15/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "15_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 27497,
-    "desc": "citi7889",
-    "tdate": "4/15/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "15_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 11398,
-    "desc": "citi7889",
-    "tdate": "4/18/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "18_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10999,
-    "desc": "sbi1869",
-    "tdate": "4/20/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "20_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10499,
-    "desc": "sbi9659",
-    "tdate": "4/20/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "20_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10499,
-    "desc": "hdfc1502",
-    "tdate": "4/21/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "21_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17998,
-    "desc": "citi7889",
-    "tdate": "4/30/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "30_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10999,
-    "desc": "icici4003",
-    "tdate": "4/30/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "30_04_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 0,
-    "desc": "axis8121",
-    "tdate": "5/2/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "02_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 46499,
-    "desc": "icici4003",
-    "tdate": "5/2/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "02_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 46499,
-    "desc": "icici7003",
-    "tdate": "5/2/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "02_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10999,
-    "desc": "sbi1869",
-    "tdate": "5/2/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "02_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "sbi1869",
-    "tdate": "5/2/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "02_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4500,
-    "desc": "sbi9659",
-    "tdate": "5/2/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "02_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10999,
-    "desc": "sbi9659",
-    "tdate": "5/2/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "02_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 20107,
-    "desc": "axis8121",
-    "tdate": "5/3/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "03_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 11097,
-    "desc": "axis8121",
-    "tdate": "5/3/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "03_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 29999,
-    "desc": "icici4003",
-    "tdate": "5/4/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "04_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 15499,
-    "desc": "icici4003",
-    "tdate": "5/4/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "04_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 30167,
-    "desc": "icici4003",
-    "tdate": "5/5/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "05_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 14084,
-    "desc": "icici4003",
-    "tdate": "5/5/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "05_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 47900,
-    "desc": "icici7003",
-    "tdate": "5/5/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "05_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 47900,
-    "desc": "icici7003",
-    "tdate": "5/5/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "05_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 25548,
-    "desc": "sbi7405",
-    "tdate": "5/6/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "06_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 51431,
-    "desc": "one6868",
-    "tdate": "5/7/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "07_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 51431,
-    "desc": "one6868",
-    "tdate": "5/7/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "07_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 16999,
-    "desc": "indus6864",
-    "tdate": "5/8/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "08_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 14000,
-    "desc": "one6868",
-    "tdate": "5/9/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "09_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 2832,
-    "desc": "onecharges",
-    "tdate": "5/9/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "09_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 44881,
-    "desc": "icici4003",
-    "tdate": "5/14/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "14_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 44881,
-    "desc": "icici4003",
-    "tdate": "5/14/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "14_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 44881,
-    "desc": "icici7003",
-    "tdate": "5/14/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "14_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 33798,
-    "desc": "hdfc0308",
-    "tdate": "5/21/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "21_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 11098,
-    "desc": "hdfc1502",
-    "tdate": "5/21/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "21_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 25499,
-    "desc": "hdfc0308",
-    "tdate": "5/26/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "26_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 16999,
-    "desc": "one6868",
-    "tdate": "5/26/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "26_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 18849,
-    "desc": "edge1036",
-    "tdate": "5/29/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "29_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17498,
-    "desc": "sbi9659",
-    "tdate": "5/31/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "31_05_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 14999,
-    "desc": "edge1036",
-    "tdate": "6/5/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "05_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 21962,
-    "desc": "icici4003",
-    "tdate": "6/5/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "05_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 21962,
-    "desc": "icici4003",
-    "tdate": "6/5/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "05_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 21962,
-    "desc": "icici7003",
-    "tdate": "6/5/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "05_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 21962,
-    "desc": "icici7003",
-    "tdate": "6/5/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "05_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10999,
-    "desc": "hdfc0308",
-    "tdate": "6/9/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "09_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10999,
-    "desc": "icici4003",
-    "tdate": "6/9/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "09_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 10999,
-    "desc": "icici7003",
-    "tdate": "6/9/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "09_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17499,
-    "desc": "sbi7405",
-    "tdate": "6/9/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "09_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12499,
-    "desc": "axis5077",
-    "tdate": "6/12/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "12_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 12748,
-    "desc": "edge1036",
-    "tdate": "6/14/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "14_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 70567,
-    "desc": "icici4003",
-    "tdate": "6/15/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "15_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 70569,
-    "desc": "icici7003",
-    "tdate": "6/15/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "15_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 14000,
-    "desc": "one6868",
-    "tdate": "6/15/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "15_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17499,
-    "desc": "sbi9659",
-    "tdate": "6/16/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "16_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 70567,
-    "desc": "icici1001",
-    "tdate": "6/17/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "17_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 70567,
-    "desc": "icici1001",
-    "tdate": "6/17/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "17_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 70569,
-    "desc": "icici1001",
-    "tdate": "6/17/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "17_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 70569,
-    "desc": "icici1001",
-    "tdate": "6/17/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "17_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 29798,
-    "desc": "idfc1410",
-    "tdate": "6/21/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "21_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 24200,
-    "desc": "sbi1869",
-    "tdate": "6/22/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "22_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 24200,
-    "desc": "sbi7405",
-    "tdate": "6/22/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "22_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 24200,
-    "desc": "sbi9659",
-    "tdate": "6/22/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "22_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 22998,
-    "desc": "icici4003",
-    "tdate": "6/23/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "23_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 5000,
-    "desc": "edge1036",
-    "tdate": "6/24/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "24_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 5499,
-    "desc": "edge1036",
-    "tdate": "6/24/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "24_06_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 4000,
-    "desc": "edge1036",
-    "tdate": "7/4/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "04_07_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 3448,
-    "desc": "edge1036",
-    "tdate": "7/4/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "04_07_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 27999,
-    "desc": "idfc1410",
-    "tdate": "7/4/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "04_07_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 17249,
-    "desc": "one6868",
-    "tdate": "7/5/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "05_07_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 18500,
-    "desc": "one6868",
-    "tdate": "7/6/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "06_07_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 188239,
-    "desc": "icici4003",
-    "tdate": "7/6/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "06_07_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 43490,
-    "desc": "icici7003",
-    "tdate": "7/6/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "06_07_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 16880,
-    "desc": "yes6025",
-    "tdate": "7/8/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "08_07_2024",
-    "transtype": "gave to rovin"
-  },
-  {
-    "amt": 18500,
-    "desc": "icici4003",
-    "tdate": "7/10/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "10_07_2024",
-    "transtype": "gave to rovin"
-  },
-
-  {
-    "amt": -2300,
-    "desc": "airfilter",
-    "tdate": "10/31/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "31_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10000,
-    "desc": "airpurifier",
-    "tdate": "10/31/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "31_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10000,
-    "desc": "airpurifier",
-    "tdate": "10/13/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "13_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -97000,
-    "desc": "aupayment",
-    "tdate": "5/19/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "19_05_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -4500,
-    "desc": "cardpayment",
-    "tdate": "8/15/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "15_08_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -12499,
-    "desc": "cardpayment",
-    "tdate": "8/31/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "31_08_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -12499,
-    "desc": "cardpayment",
-    "tdate": "8/31/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "31_08_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -5130,
-    "desc": "cardpayment",
-    "tdate": "11/13/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "13_11_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -41500,
-    "desc": "cash",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -21000,
-    "desc": "cash",
-    "tdate": "8/5/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "05_08_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -50000,
-    "desc": "cash",
-    "tdate": "12/29/2022",
-    "month": 12,
-    "year": 2022,
-    "year_month": "12_2022",
-    "date_string": "29_12_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -52000,
-    "desc": "cash",
-    "tdate": "1/24/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "24_01_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -36500,
-    "desc": "cash",
-    "tdate": "1/27/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "27_01_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -50000,
-    "desc": "cash",
-    "tdate": "3/3/2023",
-    "month": 3,
-    "year": 2023,
-    "year_month": "03_2023",
-    "date_string": "03_03_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -35000,
-    "desc": "cash",
-    "tdate": "3/6/2023",
-    "month": 3,
-    "year": 2023,
-    "year_month": "03_2023",
-    "date_string": "06_03_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -28500,
-    "desc": "cash",
-    "tdate": "4/6/2023",
-    "month": 4,
-    "year": 2023,
-    "year_month": "04_2023",
-    "date_string": "06_04_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -16000,
-    "desc": "cash",
-    "tdate": "6/4/2023",
-    "month": 6,
-    "year": 2023,
-    "year_month": "06_2023",
-    "date_string": "04_06_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -100000,
-    "desc": "cash",
-    "tdate": "8/17/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "17_08_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10500,
-    "desc": "cash",
-    "tdate": "10/25/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "25_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -100000,
-    "desc": "cash",
-    "tdate": "11/13/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "13_11_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -100000,
-    "desc": "cash",
-    "tdate": "11/30/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "30_11_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -150000,
-    "desc": "cash",
-    "tdate": "5/8/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "08_05_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -25500,
-    "desc": "cash",
-    "tdate": "3/1/2023",
-    "month": 3,
-    "year": 2023,
-    "year_month": "03_2023",
-    "date_string": "01_03_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -50000,
-    "desc": "cash",
-    "tdate": "10/13/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "13_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -663,
-    "desc": "gstrebate",
-    "tdate": "11/3/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "03_11_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -663,
-    "desc": "gstrebate",
-    "tdate": "11/3/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "03_11_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10740,
-    "desc": "gpay",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -5000,
-    "desc": "gpay",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -24000,
-    "desc": "gpay",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10601,
-    "desc": "gstrebate",
-    "tdate": "7/25/2023",
-    "month": 7,
-    "year": 2023,
-    "year_month": "07_2023",
-    "date_string": "25_07_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -38000,
-    "desc": "icici7003",
-    "tdate": "4/9/2023",
-    "month": 4,
-    "year": 2023,
-    "year_month": "04_2023",
-    "date_string": "09_04_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -96500,
-    "desc": "icici",
-    "tdate": "6/17/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "17_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -30000,
-    "desc": "icici",
-    "tdate": "7/8/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "08_07_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -18500,
-    "desc": "icici",
-    "tdate": "7/9/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "09_07_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -44999,
-    "desc": "icici7003",
-    "tdate": "9/30/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "30_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -7739,
-    "desc": "icici7003",
-    "tdate": "10/2/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "02_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -22000,
-    "desc": "icici7003",
-    "tdate": "10/2/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "02_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -58000,
-    "desc": "idfc",
-    "tdate": "5/11/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "11_05_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -40000,
-    "desc": "idfc",
-    "tdate": "5/31/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "31_05_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -60000,
-    "desc": "idfc",
-    "tdate": "6/5/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "05_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -100000,
-    "desc": "idfc",
-    "tdate": "6/6/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "06_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -40000,
-    "desc": "idfc",
-    "tdate": "6/7/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "07_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -20000,
-    "desc": "idfc",
-    "tdate": "6/7/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "07_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10999,
-    "desc": "idfc",
-    "tdate": "6/10/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "10_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -40000,
-    "desc": "idfc",
-    "tdate": "6/12/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "12_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -168000,
-    "desc": "idfc",
-    "tdate": "6/15/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "15_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -183000,
-    "desc": "idfc",
-    "tdate": "6/17/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "17_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -94000,
-    "desc": "idfc",
-    "tdate": "6/17/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "17_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -20000,
-    "desc": "idfc",
-    "tdate": "6/21/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "21_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -200000,
-    "desc": "idfc",
-    "tdate": "6/30/2024",
-    "month": 6,
-    "year": 2024,
-    "year_month": "06_2024",
-    "date_string": "30_06_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -45000,
-    "desc": "idfc",
-    "tdate": "7/8/2024",
-    "month": 7,
-    "year": 2024,
-    "year_month": "07_2024",
-    "date_string": "08_07_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -60000,
-    "desc": "idfc",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -5000,
-    "desc": "idfc",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -15000,
-    "desc": "idfc",
-    "tdate": "1/1/2020",
-    "month": 1,
-    "year": 2020,
-    "year_month": "01_2020",
-    "date_string": "01_01_2020",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -12999,
-    "desc": "idfc",
-    "tdate": "8/6/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "06_08_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -17990,
-    "desc": "idfc",
-    "tdate": "8/6/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "06_08_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -25000,
-    "desc": "idfc",
-    "tdate": "9/20/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "20_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -14000,
-    "desc": "idfc",
-    "tdate": "9/25/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "25_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -87219,
-    "desc": "induspay",
-    "tdate": "5/19/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "19_05_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -27020,
-    "desc": "paid(phone)",
-    "tdate": "2/5/2023",
-    "month": 2,
-    "year": 2023,
-    "year_month": "02_2023",
-    "date_string": "05_02_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -50000,
-    "desc": "paytm",
-    "tdate": "5/6/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "06_05_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -11000,
-    "desc": "redmi125g",
-    "tdate": "10/31/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "31_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -8549,
-    "desc": "reversalicici7003",
-    "tdate": "10/20/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "20_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -45434,
-    "desc": "reversalsbi7405",
-    "tdate": "9/27/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "27_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -33769,
-    "desc": "reversalsbi7405",
-    "tdate": "10/15/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "15_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -33769,
-    "desc": "reversalsbi9659",
-    "tdate": "10/15/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "15_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -20706,
-    "desc": "upi",
-    "tdate": "8/23/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "23_08_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -13000,
-    "desc": "upi",
-    "tdate": "8/28/2022",
-    "month": 8,
-    "year": 2022,
-    "year_month": "08_2022",
-    "date_string": "28_08_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10026,
-    "desc": "upi",
-    "tdate": "9/1/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "01_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -44000,
-    "desc": "upi",
-    "tdate": "9/6/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "06_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -5479,
-    "desc": "upi",
-    "tdate": "9/8/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "08_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -34000,
-    "desc": "upi",
-    "tdate": "9/16/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "16_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -11999,
-    "desc": "upi",
-    "tdate": "9/18/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "18_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -25000,
-    "desc": "upi",
-    "tdate": "9/20/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "20_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -15600,
-    "desc": "upi",
-    "tdate": "9/23/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "23_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -19500,
-    "desc": "upi",
-    "tdate": "9/28/2022",
-    "month": 9,
-    "year": 2022,
-    "year_month": "09_2022",
-    "date_string": "28_09_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -32435,
-    "desc": "upi",
-    "tdate": "10/1/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "01_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -33500,
-    "desc": "upi",
-    "tdate": "10/2/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "02_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -20000,
-    "desc": "upi",
-    "tdate": "10/2/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "02_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -57000,
-    "desc": "upi",
-    "tdate": "10/4/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "04_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -25786,
-    "desc": "upi",
-    "tdate": "10/8/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "08_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -16500,
-    "desc": "upi",
-    "tdate": "10/8/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "08_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -17500,
-    "desc": "upi",
-    "tdate": "10/8/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "08_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -33769,
-    "desc": "upi",
-    "tdate": "10/10/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "10_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -67538,
-    "desc": "upi",
-    "tdate": "10/12/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "12_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -17098,
-    "desc": "upi",
-    "tdate": "10/12/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "12_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -21000,
-    "desc": "upi",
-    "tdate": "10/15/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "15_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -15000,
-    "desc": "upi",
-    "tdate": "10/19/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "19_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -51038,
-    "desc": "upi",
-    "tdate": "10/19/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "19_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -8549,
-    "desc": "upi",
-    "tdate": "10/19/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "19_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -4500,
-    "desc": "upi",
-    "tdate": "10/22/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "22_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -23500,
-    "desc": "upi",
-    "tdate": "10/23/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "23_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -35000,
-    "desc": "upi",
-    "tdate": "10/30/2022",
-    "month": 10,
-    "year": 2022,
-    "year_month": "10_2022",
-    "date_string": "30_10_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10000,
-    "desc": "upi",
-    "tdate": "11/21/2022",
-    "month": 11,
-    "year": 2022,
-    "year_month": "11_2022",
-    "date_string": "21_11_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -24000,
-    "desc": "upi",
-    "tdate": "12/31/2022",
-    "month": 12,
-    "year": 2022,
-    "year_month": "12_2022",
-    "date_string": "31_12_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -21000,
-    "desc": "upi",
-    "tdate": "12/31/2022",
-    "month": 12,
-    "year": 2022,
-    "year_month": "12_2022",
-    "date_string": "31_12_2022",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -28000,
-    "desc": "upi",
-    "tdate": "1/14/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "14_01_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -9000,
-    "desc": "upi",
-    "tdate": "1/14/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "14_01_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -7000,
-    "desc": "upi",
-    "tdate": "1/15/2023",
-    "month": 1,
-    "year": 2023,
-    "year_month": "01_2023",
-    "date_string": "15_01_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -20000,
-    "desc": "upi",
-    "tdate": "2/4/2023",
-    "month": 2,
-    "year": 2023,
-    "year_month": "02_2023",
-    "date_string": "04_02_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -20000,
-    "desc": "upi",
-    "tdate": "2/4/2023",
-    "month": 2,
-    "year": 2023,
-    "year_month": "02_2023",
-    "date_string": "04_02_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -18061,
-    "desc": "upi",
-    "tdate": "4/4/2023",
-    "month": 4,
-    "year": 2023,
-    "year_month": "04_2023",
-    "date_string": "04_04_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -24999,
-    "desc": "upi",
-    "tdate": "4/13/2023",
-    "month": 4,
-    "year": 2023,
-    "year_month": "04_2023",
-    "date_string": "13_04_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -9000,
-    "desc": "upi",
-    "tdate": "5/1/2023",
-    "month": 5,
-    "year": 2023,
-    "year_month": "05_2023",
-    "date_string": "01_05_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -25000,
-    "desc": "upi",
-    "tdate": "5/2/2023",
-    "month": 5,
-    "year": 2023,
-    "year_month": "05_2023",
-    "date_string": "02_05_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -18999,
-    "desc": "upi",
-    "tdate": "5/4/2023",
-    "month": 5,
-    "year": 2023,
-    "year_month": "05_2023",
-    "date_string": "04_05_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -29999,
-    "desc": "upi",
-    "tdate": "5/15/2023",
-    "month": 5,
-    "year": 2023,
-    "year_month": "05_2023",
-    "date_string": "15_05_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10000,
-    "desc": "upi",
-    "tdate": "6/5/2023",
-    "month": 6,
-    "year": 2023,
-    "year_month": "06_2023",
-    "date_string": "05_06_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -15000,
-    "desc": "upi",
-    "tdate": "7/2/2023",
-    "month": 7,
-    "year": 2023,
-    "year_month": "07_2023",
-    "date_string": "02_07_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -40000,
-    "desc": "upi",
-    "tdate": "8/4/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "04_08_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -25000,
-    "desc": "upi",
-    "tdate": "8/8/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "08_08_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -15000,
-    "desc": "upi",
-    "tdate": "8/12/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "12_08_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -39000,
-    "desc": "upi",
-    "tdate": "8/24/2023",
-    "month": 8,
-    "year": 2023,
-    "year_month": "08_2023",
-    "date_string": "24_08_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -100000,
-    "desc": "upi",
-    "tdate": "9/9/2023",
-    "month": 9,
-    "year": 2023,
-    "year_month": "09_2023",
-    "date_string": "09_09_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -27000,
-    "desc": "upi",
-    "tdate": "9/20/2023",
-    "month": 9,
-    "year": 2023,
-    "year_month": "09_2023",
-    "date_string": "20_09_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -2000,
-    "desc": "upi",
-    "tdate": "9/22/2023",
-    "month": 9,
-    "year": 2023,
-    "year_month": "09_2023",
-    "date_string": "22_09_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -22000,
-    "desc": "upi",
-    "tdate": "10/5/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "05_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -13000,
-    "desc": "upi",
-    "tdate": "10/8/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "08_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -7000,
-    "desc": "upi",
-    "tdate": "10/8/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "08_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -54000,
-    "desc": "upi",
-    "tdate": "10/8/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "08_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10349,
-    "desc": "upi",
-    "tdate": "10/8/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "08_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -60000,
-    "desc": "upi",
-    "tdate": "10/20/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "20_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -20000,
-    "desc": "upi",
-    "tdate": "10/25/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "25_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -120000,
-    "desc": "upi",
-    "tdate": "10/28/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "28_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -123000,
-    "desc": "upi",
-    "tdate": "10/31/2023",
-    "month": 10,
-    "year": 2023,
-    "year_month": "10_2023",
-    "date_string": "31_10_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -47000,
-    "desc": "upi",
-    "tdate": "11/3/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "03_11_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -45000,
-    "desc": "upi",
-    "tdate": "11/8/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "08_11_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -150000,
-    "desc": "upi",
-    "tdate": "11/15/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "15_11_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -160000,
-    "desc": "upi",
-    "tdate": "11/30/2023",
-    "month": 11,
-    "year": 2023,
-    "year_month": "11_2023",
-    "date_string": "30_11_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -100000,
-    "desc": "upi",
-    "tdate": "12/2/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "02_12_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -250000,
-    "desc": "upi",
-    "tdate": "12/3/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "03_12_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -300000,
-    "desc": "upi",
-    "tdate": "12/8/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "08_12_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -50000,
-    "desc": "upi",
-    "tdate": "12/18/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "18_12_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10000,
-    "desc": "upi",
-    "tdate": "12/21/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "21_12_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -100000,
-    "desc": "upi",
-    "tdate": "12/22/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "22_12_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -100000,
-    "desc": "upi",
-    "tdate": "12/26/2023",
-    "month": 12,
-    "year": 2023,
-    "year_month": "12_2023",
-    "date_string": "26_12_2023",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -25000,
-    "desc": "upi",
-    "tdate": "1/2/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "02_01_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -24000,
-    "desc": "upi",
-    "tdate": "1/2/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "02_01_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -95000,
-    "desc": "upi",
-    "tdate": "1/4/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "04_01_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -25000,
-    "desc": "upi",
-    "tdate": "1/29/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "29_01_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -25000,
-    "desc": "upi",
-    "tdate": "1/29/2024",
-    "month": 1,
-    "year": 2024,
-    "year_month": "01_2024",
-    "date_string": "29_01_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -18000,
-    "desc": "upi",
-    "tdate": "2/7/2024",
-    "month": 2,
-    "year": 2024,
-    "year_month": "02_2024",
-    "date_string": "07_02_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -90000,
-    "desc": "upi",
-    "tdate": "3/3/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "03_03_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -99000,
-    "desc": "upi",
-    "tdate": "3/3/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "03_03_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -100000,
-    "desc": "upi",
-    "tdate": "3/13/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "13_03_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -219000,
-    "desc": "upi",
-    "tdate": "3/15/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "15_03_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -28500,
-    "desc": "upi",
-    "tdate": "3/22/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "22_03_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -49999,
-    "desc": "upi",
-    "tdate": "3/26/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "26_03_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -50000,
-    "desc": "upi",
-    "tdate": "3/27/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "27_03_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -36000,
-    "desc": "upi",
-    "tdate": "3/27/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "27_03_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -92000,
-    "desc": "upi",
-    "tdate": "3/26/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "26_03_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -20000,
-    "desc": "upi",
-    "tdate": "3/28/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "28_03_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -7000,
-    "desc": "upi",
-    "tdate": "3/28/2024",
-    "month": 3,
-    "year": 2024,
-    "year_month": "03_2024",
-    "date_string": "28_03_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -48000,
-    "desc": "upi",
-    "tdate": "4/18/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "18_04_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -60000,
-    "desc": "upi",
-    "tdate": "4/20/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "20_04_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -10000,
-    "desc": "upi",
-    "tdate": "4/24/2024",
-    "month": 4,
-    "year": 2024,
-    "year_month": "04_2024",
-    "date_string": "24_04_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -25000,
-    "desc": "upi",
-    "tdate": "5/2/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "02_05_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -63000,
-    "desc": "upi",
-    "tdate": "5/2/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "02_05_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -150000,
-    "desc": "upi",
-    "tdate": "5/2/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "02_05_2024",
-    "transtype": "got from rovin"
-  },
-  {
-    "amt": -100000,
-    "desc": "upi",
-    "tdate": "5/7/2024",
-    "month": 5,
-    "year": 2024,
-    "year_month": "05_2024",
-    "date_string": "07_05_2024",
-    "transtype": "got from rovin"
+    "name": "Dalip",
+    "meal": "Sabudana papita",
+    "comment": "before breakfast",
+    "sugar": 134,
+    "insulin": null,
+    "lantus": null,
+    "tDate": "2024-10-20T04:09:00.000Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Papita",
+    "comment": "before dinner",
+    "sugar": 225,
+    "insulin": null,
+    "lantus": 14,
+    "tDate": "2024-10-19T15:30:00.000Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Sabudana papita",
+    "comment": "before breakfast",
+    "sugar": 128,
+    "insulin": null,
+    "lantus": 0,
+    "tDate": "2024-10-19T03:12:00.000Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Daliya",
+    "comment": "before dinner",
+    "sugar": 251,
+    "insulin": 14,
+    "lantus": 0,
+    "tDate": "2024-10-18T17:50:36.442Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Daliya",
+    "comment": "before breakfast",
+    "sugar": 135,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-18T02:32:34.040Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Oats",
+    "comment": "before breakfast",
+    "sugar": 118,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-17T02:25:12.385Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Papita",
+    "comment": "before breakfast",
+    "sugar": 148,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-16T03:41:44.900Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Papita",
+    "comment": "before breakfast",
+    "sugar": 150,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-15T07:26:32.976Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Muli roti",
+    "comment": "before breakfast",
+    "sugar": 124,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-14T05:48:10.216Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Roti dal",
+    "comment": "before dinner",
+    "sugar": 224,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-13T13:44:49.840Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Egg",
+    "comment": "before breakfast",
+    "sugar": 130,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-13T03:26:54.013Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Milk and bun",
+    "comment": "before dinner",
+    "sugar": 245,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-12T15:32:02.709Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Upma",
+    "comment": "before breakfast",
+    "sugar": 124,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-12T04:06:32.015Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Dalia",
+    "comment": "before dinner",
+    "sugar": 211,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-11T12:19:16.895Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spout",
+    "comment": "before breakfast",
+    "sugar": 100,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-11T02:59:23.155Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Daliya",
+    "comment": "before dinner",
+    "sugar": 225,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-10T13:26:36.603Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Suji ka chila",
+    "comment": "before breakfast",
+    "sugar": 124,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-10T05:32:54.439Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Tamater onion methi",
+    "comment": "before dinner",
+    "sugar": 271,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-09T14:57:12.680Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Egg",
+    "comment": "before breakfast",
+    "sugar": 154,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-09T02:16:45.728Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Fish",
+    "comment": "before dinner",
+    "sugar": 201,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-08T13:04:40.767Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Roti dal",
+    "comment": "before breakfast",
+    "sugar": 124,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-08T04:50:28.306Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Chicken🐓",
+    "comment": "before dinner",
+    "sugar": 221,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-07T13:01:59.897Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Suni chilla",
+    "comment": "before breakfast",
+    "sugar": 108,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-07T02:55:44.415Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Roti dal",
+    "comment": "before dinner",
+    "sugar": 201,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-06T15:19:26.487Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Muli roti",
+    "comment": "before breakfast",
+    "sugar": 90,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-06T02:14:41.701Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Fish 🐟",
+    "comment": "before dinner",
+    "sugar": 140,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-05T13:47:40.871Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Sprouts",
+    "comment": "before breakfast",
+    "sugar": 84,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-05T08:57:02.685Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Roti dal",
+    "comment": "before dinner",
+    "sugar": 114,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-04T16:48:06.690Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spout",
+    "comment": "before breakfast",
+    "sugar": 124,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-04T04:54:46.509Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "\"sugar\"cane juice",
+    "comment": "before breakfast",
+    "sugar": 34,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-03T03:56:40.012Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spout",
+    "comment": "before breakfast",
+    "sugar": 115,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-02T02:58:06.156Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Bagian roti",
+    "comment": "before dinner",
+    "sugar": 134,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-01T14:23:45.320Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spout",
+    "comment": "before breakfast",
+    "sugar": 84,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-10-01T01:32:41.305Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Roti dal",
+    "comment": "before dinner",
+    "sugar": 134,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-30T16:47:40.878Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Moongdal cheela",
+    "comment": "before breakfast",
+    "sugar": 124,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-30T04:56:43.297Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Paneer, Roti",
+    "comment": "Before dinner",
+    "sugar": 125,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-29T17:11:50.017Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spout",
+    "comment": "Before Breakfast",
+    "sugar": 87,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-29T04:08:37.530Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spout",
+    "comment": "Before Breakfast",
+    "sugar": 124,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-28T04:03:40.166Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spout",
+    "comment": "before Breakfast",
+    "sugar": 118,
+    "insulin": null,
+    "lantus": 0,
+    "tDate": "2024-09-27T03:11:53.094Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Fish",
+    "comment": "Before dinner",
+    "sugar": 257,
+    "insulin": null,
+    "lantus": 0,
+    "tDate": "2024-09-26T17:32:07.622Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spout",
+    "comment": "before breakfast",
+    "sugar": 61,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-26T02:42:23.346Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Fish",
+    "comment": "Before Dinner",
+    "sugar": 208,
+    "insulin": null,
+    "lantus": 0,
+    "tDate": "2024-09-25T14:58:12.465Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spout",
+    "comment": "before breakfast",
+    "sugar": 57,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-25T03:01:45.509Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Fish",
+    "comment": "Before Dinner",
+    "sugar": 108,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-24T16:54:14.489Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Methi matar, multigrain Atta Roti 2",
+    "comment": "before lunch",
+    "sugar": 95,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-24T10:32:31.710Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spout and juice",
+    "comment": "Before Breakfast",
+    "sugar": 45,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-24T03:14:25.905Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Fish",
+    "comment": "Before Dinner",
+    "sugar": 118,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-23T14:06:17.346Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Palak mushroom, egg",
+    "comment": "Before Lunch",
+    "sugar": 163,
+    "insulin": 3,
+    "lantus": 0,
+    "tDate": "2024-09-23T08:18:12.875Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Poha",
+    "comment": "before Breakfast",
+    "sugar": 128,
+    "insulin": 2,
+    "lantus": 0,
+    "tDate": "2024-09-23T04:19:14.715Z"
+  },
+  {
+    "name": "dalip",
+    "meal": "Fish",
+    "comment": "Before dinner",
+    "sugar": 171,
+    "insulin": 3,
+    "lantus": 0,
+    "tDate": "2024-09-22T14:57:40.758Z"
+  },
+  {
+    "name": "dalip",
+    "meal": "__",
+    "comment": "before lunch",
+    "sugar": 180,
+    "insulin": 3,
+    "lantus": 0,
+    "tDate": "2024-09-22T08:07:44.774Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Sprouts",
+    "comment": "Before Breakfast",
+    "sugar": 88,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-22T04:56:21.221Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Fish",
+    "comment": "Before Dinner",
+    "sugar": 208,
+    "insulin": 5,
+    "lantus": 0,
+    "tDate": "2024-09-21T14:37:32.172Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Gheeya dal roti",
+    "comment": "Before Lunch",
+    "sugar": 108,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-21T12:14:43.253Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Sprouts",
+    "comment": "Before Breakfast",
+    "sugar": 88,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-21T12:14:11.520Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Sprouts",
+    "comment": "Before dinner",
+    "sugar": 207,
+    "insulin": 5,
+    "lantus": 0,
+    "tDate": "2024-09-20T16:03:59.119Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "__",
+    "comment": "Before breakfast",
+    "sugar": 87,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-20T05:42:20.943Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Multigrain roti, fish",
+    "comment": "Before dinner",
+    "sugar": 201,
+    "insulin": 5,
+    "lantus": 0,
+    "tDate": "2024-09-19T14:41:46.326Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Salad",
+    "comment": "Before Lunch",
+    "sugar": 197,
+    "insulin": 5,
+    "lantus": 0,
+    "tDate": "2024-09-19T07:36:45.157Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Sprout",
+    "comment": "Before Breakfast",
+    "sugar": 57,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-19T01:59:11.543Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Fish",
+    "comment": "Before dinner",
+    "sugar": 105,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-18T16:38:54.106Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Multigrain chila",
+    "comment": "before Lunch",
+    "sugar": 91,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-18T08:03:35.889Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Sprouts",
+    "comment": "Before Breakfast",
+    "sugar": 67,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-18T03:52:57.959Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Anar, sprouts",
+    "comment": "Before dinner",
+    "sugar": 157,
+    "insulin": 3,
+    "lantus": 0,
+    "tDate": "2024-09-17T13:38:24.007Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Multigrain chila, Anar",
+    "comment": "Before Lunch",
+    "sugar": 77,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-17T08:12:59.266Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spouts",
+    "comment": "Before Breakfast",
+    "sugar": 108,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-17T02:01:05.182Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Daliya",
+    "comment": "Before dinner",
+    "sugar": 231,
+    "insulin": 5,
+    "lantus": 0,
+    "tDate": "2024-09-16T16:32:22.674Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Oats",
+    "comment": "Before lunch",
+    "sugar": 95,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-16T08:33:08.507Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Spouts",
+    "comment": "Before Breakfast",
+    "sugar": 75,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-16T02:34:55.521Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Fish",
+    "comment": "Before dinner",
+    "sugar": 179,
+    "insulin": 3,
+    "lantus": 0,
+    "tDate": "2024-09-15T14:38:39.031Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Chana soup",
+    "comment": "Before Lunch",
+    "sugar": 151,
+    "insulin": 3,
+    "lantus": 0,
+    "tDate": "2024-09-15T08:36:28.528Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "Chila multigrain",
+    "comment": "Before Breakfast",
+    "sugar": 101,
+    "insulin": 0,
+    "lantus": 0,
+    "tDate": "2024-09-15T02:38:23.079Z"
+  },
+  {
+    "name": "dalip",
+    "meal": "fish",
+    "comment": "before dinner",
+    "sugar": 180,
+    "insulin": 3,
+    "lantus": 0,
+    "tDate": "2024-09-14T14:33:21.441Z"
+  },
+  {
+    "name": "dalip",
+    "meal": "sabzi, salad, papita",
+    "comment": "before lunch",
+    "sugar": 181,
+    "insulin": 5,
+    "lantus": 0,
+    "tDate": "2024-09-14T09:41:07.237Z"
+  },
+  {
+    "name": "Dalip",
+    "meal": "kichadi",
+    "comment": "before breakfast",
+    "sugar": 125,
+    "insulin": 2,
+    "lantus": 0,
+    "tDate": "2024-09-14T05:02:51.604Z"
   }
 ]

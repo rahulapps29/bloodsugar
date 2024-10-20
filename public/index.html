@@ -32,6 +32,17 @@
           placeholder="Meal: Dal/Fish"
         />
       </div>
+
+      <div class="form-control">
+        <input
+          type="datetime-local"
+          id="date"
+          name="date"
+          value="<%= event.date.toISOString().slice(0,16) %>"
+          class="task-edit-dateTime"
+        />
+      </div>
+
       <div class="form-control">
         <input
           type="text"
@@ -49,12 +60,19 @@
           placeholder="Sugar in mg/dL"
         />
       </div>
-      <div class="form-control">
+      <div class="form-control input-container">
         <input
           type="number"
           name="insulin"
           class="task-insulin"
           placeholder="Insulin in units (.01 mL)"
+        />
+
+        <input
+          type="number"
+          name="lantus"
+          class="task-lantus"
+          placeholder="Lantus in units (.01 mL)"
         />
       </div>
 

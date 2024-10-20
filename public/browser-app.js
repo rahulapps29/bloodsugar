@@ -4,9 +4,25 @@ const loadingDOM = document.querySelector(".loading-text");
 const formDOM = document.querySelector(".task-form");
 const taskInputName = document.querySelector(".task-name");
 const taskInputMeal = document.querySelector(".task-meal");
+const taskDateTimeDOM = document.querySelector(".task-edit-dateTime");
 const taskInputSugar = document.querySelector(".task-sugar");
 const taskInputInsulin = document.querySelector(".task-insulin");
+const taskInputLantus = document.querySelector(".task-lantus");
 const taskInputComment = document.querySelector(".task-comment");
+
+function setCurrentDateTime() {
+  const now = new Date();
+  // Get the timezone offset in minutes and convert it to milliseconds
+  const timezoneOffset = now.getTimezoneOffset() * 60 * 1000;
+  // Adjust the current time by the timezone offset
+  const localDate = new Date(now.getTime() - timezoneOffset);
+  // Format date and time as 'YYYY-MM-DDTHH:MM'
+  const formattedDateTime = localDate.toISOString().slice(0, 16);
+  document.querySelector(".task-edit-dateTime").value = formattedDateTime;
+}
+
+// Call the function when the page loads
+window.onload = setCurrentDateTime;
 
 const showTasks = async () => {
   loadingDOM.style.visibility = "visible";
@@ -22,21 +38,22 @@ const showTasks = async () => {
     const allTasks = tasks
       .map((task) => {
         const {
-          completed,
           _id: taskID,
           name,
           meal,
           comment,
           sugar,
           insulin,
-          createdAt,
+          lantus,
+          tDate,
         } = task;
-        return `<div class="single-task ${completed && "task-completed"}">
+        return `<div class="single-task">
 <h5><span><i class="far fa-check-circle"></i></span>
-     ${createdAt.substring(0, 10)}  ${new Date(createdAt).toLocaleString(
-          "en-US",
-          { hour: "numeric", minute: "numeric", hour12: true }
-        )}: ${name}:${meal}: ${comment} : sugar ${sugar} mg/dl : insulin ${insulin} units (.01 ml)</h5>
+     ${tDate.substring(0, 10)}  ${new Date(tDate).toLocaleString("en-US", {
+          hour: "numeric",
+          minute: "numeric",
+          hour12: true,
+        })}: ${name} : ${meal} : ${comment} : sugar ${sugar} mg/dl : insulin ${insulin} units (.01 ml) : Lantus ${lantus} units (.01 ml)</h5>
 <div class="task-links">
 <!-- edit link -->
 <a href="task.html?id=${taskID}"  class="edit-link">
@@ -95,6 +112,9 @@ formDOM.addEventListener("submit", async (e) => {
   e.preventDefault();
   const name = taskInputName.value;
   const meal = taskInputMeal.value;
+  const inputValue = taskDateTimeDOM.value;
+  const tDate = new Date(inputValue);
+  console.log("tDateTime:", tDate);
   let comment = taskInputComment.value.toLowerCase();
 
   if (comment.search("break fast") >= 0) {
@@ -105,6 +125,7 @@ formDOM.addEventListener("submit", async (e) => {
   }
   const sugar = taskInputSugar.value;
   const insulin = taskInputInsulin.value;
+  const lantus = taskInputLantus.value;
   try {
     const userConfirmed = confirm("Are you sure you want to Add this entry?");
     if (!userConfirmed) {
@@ -120,6 +141,8 @@ formDOM.addEventListener("submit", async (e) => {
         comment,
         sugar,
         insulin,
+        lantus,
+        tDate,
       });
 
       showTasks();
@@ -132,6 +155,7 @@ formDOM.addEventListener("submit", async (e) => {
     taskInputComment.value = "";
     taskInputSugar.value = "";
     taskInputInsulin.value = "";
+    taskInputLantus.value = "";
     formAlertDOM.style.display = "block";
     formAlertDOM.textContent = `success, Entry added`;
     formAlertDOM.classList.add("text-success");
@@ -142,5 +166,5 @@ formDOM.addEventListener("submit", async (e) => {
   setTimeout(() => {
     formAlertDOM.style.display = "none";
     formAlertDOM.classList.remove("text-success");
-  }, 1000);
+  }, 1500);
 });

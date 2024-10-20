@@ -17,6 +17,7 @@
     <div class="container">
       <form class="single-task-form">
         <h4>Edit Entry</h4>
+
         <div class="form-control">
           <label>Task ID</label>
           <p class="task-edit-id"></p>
@@ -25,6 +26,16 @@
         <div class="form-control">
           <label for="">Name</label>
           <input id="Name" type="text" name="name" class="task-edit-name" />
+        </div>
+        <div class="form-control">
+          <label for="date">Date & Time:</label>
+          <input
+            type="datetime-local"
+            id="date"
+            name="date"
+            value="<%= event.date.toISOString().slice(0,16) %>"
+            class="task-edit-dateTime"
+          />
         </div>
         <div class="form-control">
           <label for="desc">Meal</label>
@@ -58,14 +69,15 @@
           />
         </div>
         <div class="form-control">
-          <label for="completed">completed</label>
+          <label for="Lantus">Lantus</label>
           <input
-            id="completed"
-            type="checkbox"
-            desc="completed"
-            class="task-edit-completed"
+            id="Lantus"
+            type="number"
+            name="lantus"
+            class="task-edit-lantus"
           />
         </div>
+
         <button type="submit" class="block btn task-edit-btn">edit</button>
         <div class="form-alert"></div>
       </form>
