@@ -18,9 +18,9 @@
     <title>Medicine Sheet</title>
   </head>
   <body>
+    <!-- Form comes first -->
     <form class="task-form">
       <h4>Medicine Sheet</h4>
-
       <div class="form-control">
         <input type="text" name="name" class="task-name" placeholder="Name" />
       </div>
@@ -32,26 +32,22 @@
           placeholder="Meal: Dal/Fish"
         />
       </div>
-
       <div class="form-control">
         <input
           type="datetime-local"
           id="date"
           name="date"
-          value="<%= event.date.toISOString().slice(0,16) %>"
           class="task-edit-dateTime"
         />
       </div>
-
       <div class="form-control">
         <input
           type="text"
           name="comment"
           class="task-comment"
-          placeholder="Time: Before breakfast/lunch/dinner"
+          placeholder="Before breakfast/lunch/dinner"
         />
       </div>
-
       <div class="form-control">
         <input
           type="number"
@@ -60,14 +56,15 @@
           placeholder="Sugar in mg/dL"
         />
       </div>
-      <div class="form-control input-container">
+      <div class="form-control">
         <input
           type="number"
           name="insulin"
           class="task-insulin"
           placeholder="Insulin in units (.01 mL)"
         />
-
+      </div>
+      <div class="form-control">
         <input
           type="number"
           name="lantus"
@@ -75,16 +72,18 @@
           placeholder="Lantus in units (.01 mL)"
         />
       </div>
-
       <div class="form-control">
-        <button type="submit" class="btn submit-btn">submit</button>
+        <button type="submit" class="btn submit-btn">Submit</button>
       </div>
       <div class="form-alert"></div>
     </form>
+
+    <!-- List of tasks comes after the form -->
     <section class="tasks-container">
       <p class="loading-text">Loading...</p>
       <div class="tasks"></div>
     </section>
+
     <!-- axios -->
     <script
       src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"

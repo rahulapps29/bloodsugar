@@ -58,8 +58,8 @@ const showTasks = async () => {
 <!-- edit link -->
 <a href="task.html?id=${taskID}"  class="edit-link">
 <i class="fas fa-edit"></i>
-</a>
-<!-- delete btn -->
+</a>  
+<!-- delete btn --> &nbsp &nbsp &nbsp
 <button type="button" class="delete-btn" data-id="${taskID}">
 <i class="fas fa-trash"></i>
 </button>

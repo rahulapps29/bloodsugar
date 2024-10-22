@@ -9,7 +9,7 @@
     <!-- normalize -->
     <link rel="stylesheet" href="./normalize.css" />
     <!-- main  -->
-    <link rel="stylesheet" href="./main.css" />
+    <link rel="stylesheet" href="./task.css" />
 
     <title>Edit Entry</title>
   </head>
@@ -19,7 +19,7 @@
         <h4>Edit Entry</h4>
 
         <div class="form-control">
-          <label>Task ID</label>
+          <label class="taskid">Task ID</label>
           <p class="task-edit-id"></p>
         </div>
 
@@ -31,7 +31,7 @@
           <label for="date">Date & Time:</label>
           <input
             type="datetime-local"
-            id="date"
+            id="date2"
             name="date"
             value="<%= event.date.toISOString().slice(0,16) %>"
             class="task-edit-dateTime"
@@ -79,9 +79,10 @@
         </div>
 
         <button type="submit" class="block btn task-edit-btn">edit</button>
+
         <div class="form-alert"></div>
+        <a href="index.html" class="btn back-link">back to tasks</a>
       </form>
-      <a href="index.html" class="btn back-link">back to tasks</a>
     </div>
     <!-- axios -->
     <script
