@@ -110,6 +110,17 @@ tasksDOM.addEventListener("click", async (e) => {
 
 formDOM.addEventListener("submit", async (e) => {
   e.preventDefault();
+
+  const dropdown = document.getElementById("task-options");
+  const befafter = dropdown.value; // Get the selected value
+
+  // Check if selectedValue is defined and not empty
+  if (befafter) {
+    console.log(befafter.toLowerCase()); // Safe to call toLowerCase()
+  } else {
+    console.error("No option selected or selected value is undefined.");
+  }
+
   const name = taskInputName.value;
   const meal = taskInputMeal.value;
   const inputValue = taskDateTimeDOM.value;
@@ -120,9 +131,14 @@ formDOM.addEventListener("submit", async (e) => {
   if (comment.search("break fast") >= 0) {
     comment = "breakfast";
   }
-  if (!comment.includes("before")) {
+  if (befafter === "before") {
     comment = "before " + comment;
+  } else if (befafter === "after") {
+    comment = "after " + comment;
+    console.log(comment);
   }
+
+  console.log(comment);
   const sugar = taskInputSugar.value;
   const insulin = taskInputInsulin.value;
   const lantus = taskInputLantus.value;
