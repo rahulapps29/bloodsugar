@@ -311,3 +311,17 @@ body > div > form > a {
 .tasks {
   text-transform: capitalize;
 }
+
+.task-comment,
+.task-name {
+  width: 100%;
+  padding: 18px;
+  font-size: 2.5rem;
+  border: 2px solid #555;
+  background-color: #3a3a3a;
+  color: #f0f0f0;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  max-width: 100%; /* Ensure input fields take up full width */
+  color: #999;
+}

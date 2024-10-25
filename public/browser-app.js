@@ -2,13 +2,12 @@ const formAlertDOM = document.querySelector(".form-alert");
 const tasksDOM = document.querySelector(".tasks");
 const loadingDOM = document.querySelector(".loading-text");
 const formDOM = document.querySelector(".task-form");
-const taskInputName = document.querySelector(".task-name");
+
 const taskInputMeal = document.querySelector(".task-meal");
 const taskDateTimeDOM = document.querySelector(".task-edit-dateTime");
 const taskInputSugar = document.querySelector(".task-sugar");
 const taskInputInsulin = document.querySelector(".task-insulin");
 const taskInputLantus = document.querySelector(".task-lantus");
-const taskInputComment = document.querySelector(".task-comment");
 
 function setCurrentDateTime() {
   const now = new Date();
@@ -111,34 +110,28 @@ tasksDOM.addEventListener("click", async (e) => {
 formDOM.addEventListener("submit", async (e) => {
   e.preventDefault();
 
-  const dropdown = document.getElementById("task-options");
-  const befafter = dropdown.value; // Get the selected value
+  const taskInputNameDropdown = document.querySelector(".task-name");
+
+  const commentDropdown = document.querySelector(".task-comment");
+  const commentText = commentDropdown.value;
+
+  const prefixOfDropdown = document.getElementById("task-options");
+  const prefixOfDropdownText = prefixOfDropdown.value; // Get the selected value
 
   // Check if selectedValue is defined and not empty
-  if (befafter) {
-    console.log(befafter.toLowerCase()); // Safe to call toLowerCase()
-  } else {
-    console.error("No option selected or selected value is undefined.");
-  }
+  // if (prefixOfDropdownText) {
+  //   console.log(prefixOfDropdownText.toLowerCase()); // Safe to call toLowerCase()
+  // } else {
+  //   console.error("No option selected or selected value is undefined.");
+  // }
 
-  const name = taskInputName.value;
+  const name = taskInputNameDropdown.value;
   const meal = taskInputMeal.value;
   const inputValue = taskDateTimeDOM.value;
   const tDate = new Date(inputValue);
   console.log("tDateTime:", tDate);
-  let comment = taskInputComment.value.toLowerCase();
+  let comment = prefixOfDropdownText + " " + commentText;
 
-  if (comment.search("break fast") >= 0) {
-    comment = "breakfast";
-  }
-  if (befafter === "before") {
-    comment = "before " + comment;
-  } else if (befafter === "after") {
-    comment = "after " + comment;
-    console.log(comment);
-  }
-
-  console.log(comment);
   const sugar = taskInputSugar.value;
   const insulin = taskInputInsulin.value;
   const lantus = taskInputLantus.value;
@@ -166,9 +159,7 @@ formDOM.addEventListener("submit", async (e) => {
       // You can add your deletion logic here
     }
 
-    taskInputName.value = "";
     taskInputMeal.value = "";
-    taskInputComment.value = "";
     taskInputSugar.value = "";
     taskInputInsulin.value = "";
     taskInputLantus.value = "";

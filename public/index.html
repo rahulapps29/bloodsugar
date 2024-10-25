@@ -22,7 +22,10 @@
     <form class="task-form">
       <h4>Medicine Sheet</h4>
       <div class="form-control">
-        <input type="text" name="name" class="task-name" placeholder="Name" />
+        <select name="person" class="task-name">
+          <option value="dalip">Dalip</option>
+        </select>
+        <!-- <input type="text" name="name" class="task-name" placeholder="Name" /> -->
       </div>
       <div class="form-control">
         <input
@@ -45,12 +48,17 @@
           <option value="before">Before</option>
           <option value="after">After</option>
         </select>
-        <input
+        <select name="person" class="task-comment">
+          <option value="breakfast">Breakfast</option>
+          <option value="lunch">Lunch</option>
+          <option value="dinner">Dinner</option>
+        </select>
+        <!-- <input
           type="text"
           name="comment"
           class="task-comment"
           placeholder="Breakfast/Lunch/Dinner"
-        />
+        /> -->
       </div>
       <div class="form-control">
         <input
