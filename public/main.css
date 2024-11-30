@@ -325,3 +325,21 @@ body > div > form > a {
   max-width: 100%; /* Ensure input fields take up full width */
   color: #999;
 }
+.top-right-button {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background-color: #4caf50;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 1.6rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  transition: background-color 0.3s ease;
+}
+
+.top-right-button:hover {
+  background-color: #45a049;
+}
